@@ -26,5 +26,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Screen Record
-
-https://watch.screencastify.com/v/fbsN6CBkJBWjoohO5Ond
+[Record](https://watch.screencastify.com/v/fbsN6CBkJBWjoohO5Ond)
